@@ -8,3 +8,4 @@ In this article, we will learn about Docker Swarm, its features, and use cases a
 
 In this article we are going to do a technology deep dive and start understanding the foundational Linux kernel features that software like Docker is using to make the containers work and
 provide those isolated environments that we all use. then towards the end of this section, we’ll also take a look at the docker system architecture...
+[Read more](https://www.geeksforgeeks.org/understanding-the-docker-desktop-architecture-and-linux-building-block-for-containers/)
